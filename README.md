@@ -6,3 +6,5 @@ Mi nombre es Juan, tengo 22 años y este es mi segundo año en la facultad, veng
 Vivo en CABA, más precisamente en el barrio de flores en una casa donde habita un canino de tamaño considerable llamado bongo.
 
 Adjunto foto:
+
+<img src="WhatsApp Image 2023-03-28 at 18.52.10.jpeg" width="600">
